@@ -61,5 +61,4 @@ for x in range(T):
 for a in range(len(results)):
     print(results[a])
 
-#I fucking hate this project. I spent 5 hours of suffering. I hope this fucking works cause holy shit my eyes.
     
